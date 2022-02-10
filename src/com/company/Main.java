@@ -6,5 +6,6 @@ public class Main {
         System.out.println("Hello World!");
         System.out.println("commit 1");
         System.out.println("commit 2");
+        System.out.println("practice 2 commit");
     }
 }
